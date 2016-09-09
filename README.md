@@ -1,0 +1,1 @@
+Text message classification project using R and supervised learning classification algorithms to classify English and Spanish text messages using models which perform best during n-fold cross-validation.
